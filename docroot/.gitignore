@@ -19,6 +19,7 @@ sites/*/settings*.php
 sites/*/*services*.yml
 sites/development.services.yml
 .htaccess
+web.config
 
 # Ignore paths that contain user-generated content.
 sites/*/files
